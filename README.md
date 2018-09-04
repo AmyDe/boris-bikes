@@ -1,3 +1,3 @@
-##Boris Bikes##
+## Boris Bikes
 
-#Pairing on the weekly challenge#
+# Pairing on the weekly challenge
