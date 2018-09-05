@@ -12,4 +12,4 @@ class DockingStation
 
   attr_reader :bike
 
-end
+end 

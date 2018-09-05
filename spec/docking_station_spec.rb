@@ -26,3 +26,4 @@ it 'responds to bike method' do
 end
 
 end
+ 
